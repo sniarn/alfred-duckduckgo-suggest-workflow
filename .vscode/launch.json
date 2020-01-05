@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: filter.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/filter.py",
+            "console": "integratedTerminal",
+            "args": ["rød grød med"],
+        }
+    ]
+}
