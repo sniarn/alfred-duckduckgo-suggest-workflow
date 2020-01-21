@@ -8,8 +8,9 @@ to use this workflow.
 
 1. Type the keyword `s` into Alfred followed by a search query to get search
    suggestions as you type.
-1. Highlight a suggestion and press <kbd>⏎</kbd> to search DuckDuckGo. Press
-   <kbd>⎇</kbd> + <kbd>⏎</kbd> to search Google instead.
+2. Type <kbd>⇥</kbd> to autocomplete a search suggestion.
+3. Highlight a suggestion and press <kbd>↵</kbd> to search DuckDuckGo. Press
+   <kbd>⌥</kbd> + <kbd>↵</kbd> to search Google instead.
 
 ![Screenshot](screenshot.png)
 

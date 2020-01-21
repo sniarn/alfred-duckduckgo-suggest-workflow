@@ -21,6 +21,7 @@ def add_suggestion(suggestion):
         subtitle='Search DuckDuckGo for "{}"'.format(suggestion),
         arg=suggestion,
         valid=True,
+        autocomplete=suggestion,
         largetext=suggestion)
 
 
